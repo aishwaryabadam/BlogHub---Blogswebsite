@@ -1,0 +1,18 @@
+.newpost-page {
+    background: url('/media/post2.jpeg');
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.newpost-form {
+    width: 300px;
+    background: white;
+    padding: 25px;
+    height: 300px;
+    border-radius: 10px;
+}
+
